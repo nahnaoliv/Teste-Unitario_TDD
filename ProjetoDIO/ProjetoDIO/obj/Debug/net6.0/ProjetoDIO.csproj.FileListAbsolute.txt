@@ -1,0 +1,14 @@
+C:\Users\maary\source\repos\ProjetoDIO\ProjetoDIO\bin\Debug\net6.0\ProjetoDIO.exe
+C:\Users\maary\source\repos\ProjetoDIO\ProjetoDIO\bin\Debug\net6.0\ProjetoDIO.deps.json
+C:\Users\maary\source\repos\ProjetoDIO\ProjetoDIO\bin\Debug\net6.0\ProjetoDIO.runtimeconfig.json
+C:\Users\maary\source\repos\ProjetoDIO\ProjetoDIO\bin\Debug\net6.0\ProjetoDIO.dll
+C:\Users\maary\source\repos\ProjetoDIO\ProjetoDIO\bin\Debug\net6.0\ProjetoDIO.pdb
+C:\Users\maary\source\repos\ProjetoDIO\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maary\source\repos\ProjetoDIO\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\ProjetoDIO\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.AssemblyInfo.cs
+C:\Users\maary\source\repos\ProjetoDIO\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\ProjetoDIO\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.dll
+C:\Users\maary\source\repos\ProjetoDIO\ProjetoDIO\obj\Debug\net6.0\refint\ProjetoDIO.dll
+C:\Users\maary\source\repos\ProjetoDIO\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.pdb
+C:\Users\maary\source\repos\ProjetoDIO\ProjetoDIO\obj\Debug\net6.0\ProjetoDIO.genruntimeconfig.cache
+C:\Users\maary\source\repos\ProjetoDIO\ProjetoDIO\obj\Debug\net6.0\ref\ProjetoDIO.dll
